@@ -5,9 +5,12 @@ import Hero from '@/components/Hero';
 import Marquee from '@/components/Marquee';
 import Problem from '@/components/Problem';
 import Technology from '@/components/Technology';
+import ReactionGame from '@/components/ReactionGame';
 import Features from '@/components/Features';
+import SensorSimulator from '@/components/SensorSimulator';
 import Dashboard from '@/components/Dashboard';
 import Vehicles from '@/components/Vehicles';
+import LiveMap from '@/components/LiveMap';
 import Compare from '@/components/Compare';
 import Testimonials from '@/components/Testimonials';
 import Roadmap from '@/components/Roadmap';
@@ -29,9 +32,12 @@ export default function Home() {
         <Marquee />
         <Problem />
         <Technology />
+        <ReactionGame />
         <Features />
+        <SensorSimulator />
         <Dashboard />
         <Vehicles />
+        <LiveMap />
         <Compare />
         <Testimonials />
         <Roadmap />

@@ -11,6 +11,11 @@ export const metadata = {
   title: 'CrashConnect — Intelligent Road Safety, In Real Time',
   description:
     'CrashConnect builds CATS — an AI-powered crash detection and emergency response system that connects vehicles, people, and emergency services in real time.',
+icons: {
+  icon: "/icon.png",
+  shortcut: "/favicon.png",
+  apple: "/icon.png",
+},
   metadataBase: new URL('https://crashconnect.in'),
 };
 
